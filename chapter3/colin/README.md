@@ -1,4 +1,4 @@
-## Chapter 3 Component
+## Chapter 3 : Component
 
 ### Component란
 - 보여주기 위한 UI Template + 기능 / Action을 할 수 있는 API 기능을 포함
@@ -6,7 +6,6 @@
 
     | 함수형 | 클래스형 |
     |---|:---|
-    | `static` | 유형(기준) 없음 / 배치 불가능 |
     | - 함수형 보다 간단 / 파일사이즈 작음 <br> - Hooks를 이용해 단점 개선| - `render`함수가 반드시 있어야 함 <br> - state와 라이프사이클 API 사용가능 |
     - React 공식 메뉴얼 권장 : `함수형 Component` + `Hooks`
 
