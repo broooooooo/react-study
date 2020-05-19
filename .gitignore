@@ -64,3 +64,8 @@ typings/
 .eslintrc.js
 
 .vscode
+.idea/vcs.xml
+.idea/react-study.iml
+.idea/modules.xml
+.idea/misc.xml
+.idea/inspectionProfiles/Project_Default.xml
