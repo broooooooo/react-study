@@ -1,0 +1,23 @@
+{
+  "name": "react-study",
+  "version": "1.0.0",
+  "description": "React master를 향하여",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/broooooooo/react-study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/broooooooo/react-study/issues"
+  },
+  "homepage": "https://github.com/broooooooo/react-study#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-plugin-react": "^7.19.0"
+  }
+}
