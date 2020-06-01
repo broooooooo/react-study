@@ -1,0 +1,20 @@
+/* 자동으로 중첩방지되어 마음대로 클래스 이름 써도 됨 */
+
+.wrapper {
+    background: black;
+    padding: 1rem;
+    color: white;
+    font-size: 2rem;
+}
+
+.inverted {
+    background: white;
+    color:black;
+    border: 1px solid black;
+}
+
+/* global CSS */
+:global .something {
+    font-weight: 800;
+    color: aqua;
+}

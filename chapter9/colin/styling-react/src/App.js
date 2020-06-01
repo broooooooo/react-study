@@ -2,6 +2,8 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import SassComponent from './SassComponent';
+import CSSModule from './CSSmodule';
+import StyledComponent from './StyledComponent';
 
 function App() {
   // return (
@@ -23,9 +25,15 @@ function App() {
   //     </header>
   //   </div>
   // );
+  // return (
+  //   <div>
+  //     <SassComponent/>
+  //   </div>
+  // )
   return (
     <div>
-      <SassComponent/>
+      {/* <CSSModule/> */}
+      <StyledComponent/>
     </div>
   )
 }
